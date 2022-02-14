@@ -18,6 +18,9 @@ The basic version of this project is already live. You can visit [Click Here:- M
 
 Advanced version coming soon !!!
 
+# Basic Architecture:
+![image](https://user-images.githubusercontent.com/39219880/153902590-3140a7b7-7faf-4d83-b793-94e3b1498601.png)
+
 
 # What is similarity score and how it works?
 
