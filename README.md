@@ -1,10 +1,10 @@
 
 ## Demo
 
-![image](![image](https://user-images.githubusercontent.com/39219880/233169399-8ab4647f-d247-4bfc-a144-3382d431f799.png))
-![image](![image](https://user-images.githubusercontent.com/39219880/233169911-0e9df384-bc5b-411d-b644-82021abbf4d5.png))
-![image](![image](https://user-images.githubusercontent.com/39219880/233170144-0f427bc4-70d9-4bc2-b963-93b17a65e193.png))
-![image](![image](https://user-images.githubusercontent.com/39219880/233170465-fb06d336-826f-4354-9e94-969a970f12e4.png))
+![image](https://user-images.githubusercontent.com/39219880/233169399-8ab4647f-d247-4bfc-a144-3382d431f799.png)
+![image](https://user-images.githubusercontent.com/39219880/233169911-0e9df384-bc5b-411d-b644-82021abbf4d5.png)
+![image](https://user-images.githubusercontent.com/39219880/233170144-0f427bc4-70d9-4bc2-b963-93b17a65e193.png)
+![image](https://user-images.githubusercontent.com/39219880/233170465-fb06d336-826f-4354-9e94-969a970f12e4.png)
 
 # Project - Movie Recommendation System
 
